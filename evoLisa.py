@@ -105,7 +105,7 @@ def objective_test(individual):
     
 #################################################################################################
 #                                                                                               #
-# usage :   py evoLisa.py -fname d:/images/Monnalisa/Monnalisa_160x200.png                      #
+# usage :   py evoLisa.py -fname ./Monnalisa/Monnalisa_160x200.png                              #
 #                                                                                               #
 #################################################################################################
 
